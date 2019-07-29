@@ -11,6 +11,8 @@
 | Cooler         | ID-COOLING IS40x                                                                          |
 | EX-USB2.0      | [taobao](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.5d642e8dpFbnJC&id=546924712980) |
 
+The EFI support 9th/8th cpu and other RAM/SSD , see [asrock](https://www.asrock.com/nettop/Intel/DeskMini%20310%20Series/index.asp#Support)
+
 ## Works
 
 * [x] Ethernet/WIFI/Bluetooth/Audio/USB/Sensors
@@ -21,7 +23,7 @@
 
 ## Notes
 
-* After macOS installed done ([Tutorial](https://www.tonymacx86.com/)), please open `config.plist` and  fill few SMBIOS info by Clover Configurator.
+* After macOS installed done ([Installation Guide](https://www.tonymacx86.com/threads/unibeast-install-macos-mojave-on-any-supported-intel-based-pc.259381/)), please open `config.plist` and  fill few SMBIOS info by Clover Configurator.
 
 * If you use `BCM94352Z` , please move BCM94352Z/* to CLOVER/kexts/Other.
 
