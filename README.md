@@ -13,6 +13,29 @@
 
 The EFI support 9th/8th cpu and other RAM/SSD , see [asrock](https://www.asrock.com/nettop/Intel/DeskMini%20310%20Series/index.asp#Support)
 
+## BIOS
+
+version：P3.4（support P4.x）
+
+* Advanced
+
+  * Chipset Configuration
+
+    + Onboard HD Audio: Enabled
+
+  * USB Configuration
+
+    + XHCI Hand-off: Enabled
+
+  * Super IO Configuration
+
+    + Serial Port: Disabled  
+* Security
+
+  * Secure Boot: Disabled(by default)
+
+Other Configurations by default
+
 ## Works
 
 * [x] Ethernet/WIFI/Bluetooth/Audio/USB/Sensors
