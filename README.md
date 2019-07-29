@@ -21,15 +21,16 @@ version：P3.4（support P4.x）
 
   * Chipset Configuration
 
-    + Onboard HD Audio: Enabled
+    * Onboard HD Audio: Enabled
 
   * USB Configuration
 
-    + XHCI Hand-off: Enabled
+    * XHCI Hand-off: Enabled
 
   * Super IO Configuration
 
-    + Serial Port: Disabled  
+    * Serial Port: Disabled  
+
 * Security
 
   * Secure Boot: Disabled(by default)
@@ -63,4 +64,3 @@ Other Configurations by default
 | Date      | Content                                                              |
 |-----------|----------------------------------------------------------------------|
 | 2019.7.28 | update clover  5018 & upgrade Mojave 10.14.6 , everything is alright |
-
