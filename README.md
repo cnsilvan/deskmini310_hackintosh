@@ -59,6 +59,10 @@ Other Configurations by default
 
 * I will write some detailed tutorials (How to install macos and configure clover, etc.) in my free time, and this repository will be continuously updated until I  use the Deskmini310 no longer.
 
+## Issues
+
+Occasionally restart, but I think this is an inevitable problem for Hackintosh , Fortunately, it happens very rarely.
+
 ## ChangeLog
 
 | Date      | Content                                                              |
