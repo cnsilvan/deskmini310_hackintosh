@@ -18,21 +18,13 @@ The EFI support 9th/8th cpu and other RAM/SSD , see [asrock](https://www.asrock.
 version：P3.4（support P4.x）
 
 * Advanced
-
   * Chipset Configuration
-
     * Onboard HD Audio: Enabled
-
   * USB Configuration
-
     * XHCI Hand-off: Enabled
-
   * Super IO Configuration
-
     * Serial Port: Disabled  
-
 * Security
-
   * Secure Boot: Disabled(by default)
 
 Other Configurations by default
@@ -63,8 +55,13 @@ Other Configurations by default
 
 Occasionally restart, but I think this is an inevitable problem for Hackintosh , Fortunately, it happens very rarely.
 
+## Why Hackintosh
+
+Because We Can！
+
 ## ChangeLog
 
 | Date      | Content                                                              |
 |-----------|----------------------------------------------------------------------|
 | 2019.7.28 | update clover  5018 & upgrade Mojave 10.14.6 , everything is alright |
+| 2019.7.31 | update clover  5033                                                  |
