@@ -63,5 +63,5 @@ Because We Can！
 
 | Date      | Content                                                              |
 |-----------|----------------------------------------------------------------------|
-| 2019.7.28 | update clover  5018 & upgrade Mojave 10.14.6 , everything is alright |
+| 2019.7.28 | update clover  5018 & upgrade Mojave 10.14.6（Supplemental update has not been tested） , everything is alright |
 | 2019.7.31 | update clover  5033                                                  |
