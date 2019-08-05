@@ -11,8 +11,6 @@
 | Cooler         | ID-COOLING IS40x                                                                          |
 | EX-USB2.0      | [taobao](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.5d642e8dpFbnJC&id=546924712980) |
 
-The EFI support 9th/8th cpu and other RAM/SSD , see [asrock](https://www.asrock.com/nettop/Intel/DeskMini%20310%20Series/index.asp#Support)
-
 ## BIOS
 
 version：P3.4（support P4.x）
