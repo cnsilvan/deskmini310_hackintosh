@@ -45,7 +45,7 @@ Other Configurations by default
 
 ## Tips
 
-* If you use `Chrome` , it is recommended to turn off `Chrome` completely when using `IGPU` operations(PS/FCP etc).
+* If you use `Chrome` , it is recommended to turn off `Chrome` completely when using `IGPU` operations(PS/FCP etc).[Chrome causing Final Cut Pro X to slow down, freeze, and crash](https://appleinsider.com/articles/19/06/20/chrome-causing-final-cut-pro-x-to-freeze-and-crash)
 
 * I will write some detailed tutorials (How to install macos and configure clover, etc.) in my free time, and this repository will be continuously updated until I  use the Deskmini310 no longer.
 
@@ -63,3 +63,4 @@ Because We Can！
 |-----------|----------------------------------------------------------------------|
 | 2019.7.28 | update clover  5018 & upgrade Mojave 10.14.6（Supplemental update has not been tested） , everything is alright |
 | 2019.7.31 | update clover  5033                                                  |
+| 2019.8.7  | upgrade Mojave 10.14.6 Supplemental update.(I restarted automatically several times after upgraded, and everything worked fine now) |
