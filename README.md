@@ -9,7 +9,6 @@
 | SSD            | WD SN750 512GB M.2 PCIE                                                                   |
 | WIFI/BT        | BCM94360CS2                                                                               |
 | Cooler         | ID-COOLING IS40x                                                                          |
-| EX-USB2.0      | [taobao](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.5d642e8dpFbnJC&id=546924712980) |
 
 ## BIOS
 
@@ -29,7 +28,7 @@ Other Configurations by default
 
 ## Works
 
-* [x] Ethernet/WIFI/Bluetooth/Audio/USB/Sensors
+* [x] Ethernet/WIFI/Bluetooth/Audio/USB&EX-USB/Sensors
 
 * [x] DP/HDMI dual monitor output
 
@@ -64,3 +63,4 @@ Because We Can！
 | 2019.7.28 | update clover  5018 & upgrade Mojave 10.14.6（Supplemental update has not been tested） , everything is alright |
 | 2019.7.31 | update clover  5033                                                  |
 | 2019.8.7  | upgrade Mojave 10.14.6 Supplemental update.(I restarted automatically several times after upgraded, and everything worked fine now) |
+| 2019.8.11 | update clover  5045                                                  |
