@@ -220,7 +220,7 @@
 				</dict>
 				<dict>
 					<key>Comment</key>
-					<string>Fix RTC _STA bug</string>
+					<string>Fix RTC _STA bug If BIOS is P4.X</string>
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
@@ -283,7 +283,7 @@
 		<key>Secure</key>
 		<false/>
 		<key>Timeout</key>
-		<integer>3</integer>
+		<integer>1</integer>
 		<key>XMPDetection</key>
 		<false/>
 	</dict>
@@ -298,11 +298,6 @@
 	</dict>
 	<key>Devices</key>
 	<dict>
-		<key>Audio</key>
-		<dict>
-			<key>Inject</key>
-			<integer>3</integer>
-		</dict>
 		<key>FakeID</key>
 		<dict>
 			<key>ATI</key>
@@ -332,7 +327,7 @@
 				</data>
 				<key>layout-id</key>
 				<data>
-				HAAAAA==
+				CwAAAA==
 				</data>
 			</dict>
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
@@ -470,7 +465,7 @@
 		<key>KernelLapic</key>
 		<false/>
 		<key>KernelPm</key>
-		<true/>
+		<false/>
 		<key>KextsToPatch</key>
 		<array>
 			<dict>
