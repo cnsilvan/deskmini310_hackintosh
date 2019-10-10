@@ -62,7 +62,8 @@ Because We Can！
 |-----------|----------------------------------------------------------------------|
 | 2019.7.28 | update clover  5018 & upgrade Mojave 10.14.6（Supplemental update has not been tested） , everything is alright |
 | 2019.7.31 | update clover  5033                                                  |
-| 2019.8.7  | upgrade Mojave 10.14.6 Supplemental update.(I restarted automatically several times after upgraded, and everything worked fine now) |
+| 2019.8.7  | upgrade Mojave 10.14.6 Supplemental update.(I reboot automatically several times after upgraded, and everything worked fine now) |
 | 2019.8.11 | update clover  5045                                                  |
 | 2019.8.27 | update clover  5058 & change FakeSmc to VirtualSmc & some Subtle changes |
 | 2019.9.16 | update clover  5070 & some drivers & some kexts |
+| 2019.10.10 | update some kexts  & upgrade macos catalina (I reboot & crash automatically several times after upgraded, and everything worked fine now)|
