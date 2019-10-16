@@ -67,3 +67,4 @@ Because We Can！
 | 2019.8.27 | update clover  5058 & change FakeSmc to VirtualSmc & some Subtle changes |
 | 2019.9.16 | update clover  5070 & some drivers & some kexts |
 | 2019.10.10 | update some kexts  & upgrade macos catalina (I reboot & crash automatically several times after upgraded, and everything worked fine now)|
+| 2019.10.16 | upgrade macos catalina 19A602 |
