@@ -317,6 +317,11 @@
 			<key>XHCI</key>
 			<string>0x0</string>
 		</dict>
+		<key>Audio</key>
+		<dict>
+			<key>ResetHDA</key>
+			<false/>
+		</dict>
 		<key>Properties</key>
 		<dict>
 			<key>PciRoot(0x0)/Pci(0x1f,0x3)</key>
@@ -457,7 +462,7 @@
 		<key>#FakeCPUID</key>
 		<string>0x010676</string>
 		<key>AppleIntelCPUPM</key>
-		<true/>
+		<false/>
 		<key>AppleRTC</key>
 		<true/>
 		<key>KernelCpu</key>

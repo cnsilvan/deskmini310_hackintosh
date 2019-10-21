@@ -58,6 +58,8 @@ Because We Can！
 
 ## ChangeLog
 
+If there is an infinite reboot after upgrading efi, unplug the power and wait for a few seconds before powering up.
+
 | Date      | Content                                                              |
 |-----------|----------------------------------------------------------------------|
 | 2019.7.28 | update clover  5018 & upgrade Mojave 10.14.6（Supplemental update has not been tested） , everything is alright |
@@ -68,3 +70,4 @@ Because We Can！
 | 2019.9.16 | update clover  5070 & some drivers & some kexts |
 | 2019.10.10 | update some kexts  & upgrade macos catalina (I reboot & crash automatically several times after upgraded, and everything worked fine now)|
 | 2019.10.16 | upgrade macos catalina 19A602 |
+| 2019.10.21 | update clover 5096 & fix sleep wake |
