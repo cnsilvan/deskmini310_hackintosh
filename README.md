@@ -71,3 +71,4 @@ If there is an infinite reboot after upgrading efi, unplug the power and wait fo
 | 2019.10.10 | update some kexts  & upgrade macos catalina (I reboot & crash automatically several times after upgraded, and everything worked fine now)|
 | 2019.10.16 | upgrade macos catalina 19A602 |
 | 2019.10.21 | update clover 5096 & fix sleep wake |
+| 2019.10.30 | update clover 5097 & upgrade macos catalina 10.15.1 |
