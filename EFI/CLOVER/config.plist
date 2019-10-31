@@ -334,6 +334,10 @@
 				<data>
 				CwAAAA==
 				</data>
+				<key>No-hda-gfx</key>
+				<data>
+				AAAAAAAAAAA=
+				</data>
 			</dict>
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
