@@ -38,7 +38,7 @@ Other Configurations by default
 
 * After macOS installed done ([Installation Guide](https://www.tonymacx86.com/threads/unibeast-install-macos-mojave-on-any-supported-intel-based-pc.259381/)), please open `config.plist` and  fill few SMBIOS info by Clover Configurator.
 
-* If you use `BCM94352Z` , please move BCM94352Z/* to CLOVER/kexts/Other.
+* ~~If you use `BCM94352Z` , please move BCM94352Z/* to CLOVER/kexts/Other.~~ （Unverified）
 
 * If you need to move CLOVER/kexts/Other/* to /L/E&/S/L/E, please modify `InjectKexts` to `Detect` in `config.plist` by Clover Configurator.
 
