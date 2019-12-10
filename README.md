@@ -74,3 +74,4 @@ If there is an infinite reboot after upgrading efi, unplug the power and wait fo
 | 2019.10.30 | update clover 5097 & upgrade macos catalina 10.15.1 |
 | 2019.10.31 | update kexts & replace VoodooHDA to AppleALC |
 | 2019.11.17 | update clover 5098 & use intelMausi.kext |
+| 2019.12.10 | update clover 5100 & some kexts |
