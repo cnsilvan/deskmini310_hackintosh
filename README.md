@@ -77,3 +77,4 @@ If there is an infinite reboot after upgrading efi, unplug the power and wait fo
 | 2019.12.10 | update clover 5100 & some kexts |
 | 2019.12.12 | upgrade macos catalina 10.15.2 |
 | 2020.02.28 | upgrade macos catalina 10.15.3 & update clover 5103 & some kexts |
+| 2020.03.30 | upgrade macos catalina 10.15.4 & update clover 5107 & some kexts |
