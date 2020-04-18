@@ -12,7 +12,7 @@
 
 ## BIOS
 
-version：P3.4（support P4.x）
+version：P4.4（support P3.x）
 
 * Advanced
   * Chipset Configuration
@@ -21,8 +21,11 @@ version：P3.4（support P4.x）
     * XHCI Hand-off: Enabled
   * Super IO Configuration
     * Serial Port: Disabled  
+  * CPU C State
+    * CFG Lock: Disabled
 * Security
   * Secure Boot: Disabled(by default)
+* CSM Disable
 
 Other Configurations by default
 
