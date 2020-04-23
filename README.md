@@ -53,7 +53,7 @@ Other Configurations by default
 
 ## Issues
 
-Occasionally reboot, but I think this is an inevitable problem for Hackintosh , Fortunately, it happens very rarely.
+Occasionally reboot, but I think this is an inevitable problem for Hackintosh , Fortunately, it happens very rarely& it disappeared after 10.15
 
 ## Why Hackintosh
 
