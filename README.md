@@ -49,11 +49,8 @@ Other Configurations by default
 
 * If you use `Chrome` , it is recommended to turn off `Chrome` completely when using `IGPU` operations(PS/FCP etc).[Chrome causing Final Cut Pro X to slow down, freeze, and crash](https://appleinsider.com/articles/19/06/20/chrome-causing-final-cut-pro-x-to-freeze-and-crash)
 
-* I will write some detailed tutorials (How to install macos and configure clover, etc.) in my free time, and this repository will be continuously updated until I  use the Deskmini310 no longer.
-
-## Issues
-
-Occasionally reboot, but I think this is an inevitable problem for Hackintosh , Fortunately, it happens very rarely& it disappeared after 10.15
+* 10.15.3 is the perfect version,if you have upgraded to 10.15.4, you need to add `igfxagdc=0` in the boot parameters to prevent the HDMI interface from being plugged in and out every time.
+* don't upgrade to 10.15.5 ,if you want to use hdmi
 
 ## Why Hackintosh
 
@@ -81,3 +78,4 @@ If there is an infinite reboot after upgrading efi, unplug the power and wait fo
 | 2019.12.12 | upgrade macos catalina 10.15.2 |
 | 2020.02.28 | upgrade macos catalina 10.15.3 & update clover 5103 & some kexts |
 | 2020.03.30 | upgrade macos catalina 10.15.4 & update clover 5107 & some kexts |
+| 2020.06.15 | try opencore |
