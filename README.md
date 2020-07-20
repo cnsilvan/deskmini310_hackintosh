@@ -50,7 +50,7 @@ Other Configurations by default
 * If you use `Chrome` , it is recommended to turn off `Chrome` completely when using `IGPU` operations(PS/FCP etc).[Chrome causing Final Cut Pro X to slow down, freeze, and crash](https://appleinsider.com/articles/19/06/20/chrome-causing-final-cut-pro-x-to-freeze-and-crash)
 
 * 10.15.3 is the perfect version,if you have upgraded to 10.15.4, you need to add `igfxagdc=0` in the boot parameters to prevent the HDMI interface from being plugged in and out every time.
-* ~~don't upgrade to 10.15.5 ,if you want to use hdmi ~~（WEG 1.4.1 fix hdmi）
+* ~~don't upgrade to 10.15.5 ,if you want to use hdmi~~（WEG 1.4.1 fix hdmi）
 
 ## Why Hackintosh
 
