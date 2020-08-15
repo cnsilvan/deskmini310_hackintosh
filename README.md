@@ -79,4 +79,4 @@ If there is an infinite reboot after upgrading efi, unplug the power and wait fo
 | 2020.02.28 | upgrade macos catalina 10.15.3 & update clover 5103 & some kexts |
 | 2020.03.30 | upgrade macos catalina 10.15.4 & update clover 5107 & some kexts |
 | 2020.06.15 | try opencore |
-| 2020.07.18 | upgrade macos catalina 10.15.6 & update opencore 060 & some kexts(self-build，it is not recommended to follow the upgrade, because WEG 1.4.1 does not support HDMI perfectly(occasionally reboot))|
+| 2020.07.18 | upgrade macos catalina 10.15.6 & update opencore 060 & some kexts(self-build (occasionally reboot When wireless sharing))|
