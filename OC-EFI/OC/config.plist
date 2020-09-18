@@ -8,15 +8,7 @@
 		<array>
 			<dict>
 				<key>Comment</key>
-				<string>XCPM</string>
-				<key>Enabled</key>
-				<true/>
-				<key>Path</key>
-				<string>XCPM.aml</string>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>awac</string>
+				<string>AWAC</string>
 				<key>Enabled</key>
 				<true/>
 				<key>Path</key>
@@ -24,27 +16,27 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>SSDT-PM</string>
+				<string>EC-USBX</string>
 				<key>Enabled</key>
 				<true/>
 				<key>Path</key>
-				<string>SSDT-PM.aml</string>
+				<string>SSDT-EC-USBX.aml</string>
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>NVRAM-PLC</string>
+				<string>PLUG</string>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
+				<string>SSDT-PLUG.aml</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>PMC</string>
 				<key>Enabled</key>
 				<true/>
 				<key>Path</key>
 				<string>SSDT-PMC.aml</string>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>SSDT-GPRW</string>
-				<key>Enabled</key>
-				<false/>
-				<key>Path</key>
-				<string>SSDT-GPRW.aml</string>
 			</dict>
 		</array>
 		<key>Patch</key>
@@ -153,8 +145,10 @@
 		<dict>
 			<key>PciRoot(0x0)/Pci(0x1f,0x3)</key>
 			<dict>
+				<key>device-id</key>
+				<data>cKEAAA==</data>
 				<key>layout-id</key>
-				<integer>11</integer>
+				<data>CwAAAA==</data>
 			</dict>
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
@@ -470,7 +464,7 @@
 			<key>PanicNoKextDump</key>
 			<true/>
 			<key>PowerTimeoutKernelPanic</key>
-			<false/>
+			<true/>
 			<key>ThirdPartyDrives</key>
 			<true/>
 			<key>XhciPortLimit</key>
