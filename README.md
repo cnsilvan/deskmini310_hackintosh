@@ -51,6 +51,7 @@ Other Configurations by default
 
 * 10.15.3 is the perfect version,if you have upgraded to 10.15.4, you need to add `igfxagdc=0` in the boot parameters to prevent the HDMI interface from being plugged in and out every time.
 * ~~don't upgrade to 10.15.5 ,if you want to use hdmi~~（WEG 1.4.1 fix hdmi）
+* Raise shared memory in bios can significantly reduce the restart probability
 
 ## Why Hackintosh
 
