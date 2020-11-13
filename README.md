@@ -87,4 +87,4 @@ If there is an infinite reboot after upgrading efi, unplug the power and wait fo
 | 2020.07.18 | upgrade macos catalina 10.15.6 & update opencore 060 & some kexts(self-build (occasionally reboot When wireless sharing))|
 | 2020.09.18 | update opencore 061 & some kexts , ready to upgrade big sur|
 | 2020.09.25 | upgrade macos catalina 10.15.7|
-| 2020.11.02 | upgrade macos catalina 10.15.7 Supplemental update|
+| 2020.11.12 | upgrade macos catalina 10.15.7 Supplemental update|
