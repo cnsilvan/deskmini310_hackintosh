@@ -88,3 +88,4 @@ If there is an infinite reboot after upgrading efi, unplug the power and wait fo
 | 2020.09.18 | update opencore 061 & some kexts , ready to upgrade big sur|
 | 2020.09.25 | upgrade macos catalina 10.15.7|
 | 2020.11.12 | upgrade macos catalina 10.15.7 Supplemental update|
+| 2020.01.06 | upgrade macos bigsur 11.1 & opencore 065|
