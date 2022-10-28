@@ -91,3 +91,4 @@ If there is an infinite reboot after upgrading efi, unplug the power and wait fo
 | 2021.01.06 | upgrade macos bigsur 11.1 & opencore 065|
 | 2021.03.01 | upgrade macos bigsur 11.2.2 & opencore 067|
 | 2021.07.29 | upgrade macos bigsur 11.5.1 & opencore 071|
+| 2022.10.28 | upgrade macos ventura 13.0 & opencore 085|
